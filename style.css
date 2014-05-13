@@ -19,7 +19,7 @@ fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
 	border: 0;
 	font-family: inherit;
-	font-size: 100%;
+	font-size: 90%;
 	font-style: inherit;
 	font-weight: inherit;register_nav_menus( array(
 		'primary' => __( 'Top Menu', 'curmudgeonly' ),
